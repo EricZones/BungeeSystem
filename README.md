@@ -20,9 +20,6 @@ BungeeSystem is a Minecraft plugin for proxies which adds important features to 
 1. Move 'BungeeSystem-1.0-RELEASE.jar' inside your velocity proxies plugin folder
 2. Start your proxy and Minecraft servers
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The plugin was created for a Minecraft minigames network.
 It was originally developed in 2021 without git.
